@@ -1,2 +1,2 @@
 [tT]arget/
-*/*.lock
+**/*.lock
