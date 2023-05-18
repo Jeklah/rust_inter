@@ -1,2 +1,6 @@
 [tT]arget/
-*./*.lock
+**/Cargo.lock
+
+# Build the project
+**/target/
+**/debug/
