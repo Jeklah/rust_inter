@@ -1,4 +1,4 @@
-// this is a rust script for the fibonacci sequence for nth number.
+//µµ this is a rust script for the fibonacci sequence for nth number.
 // By: Jeklah
 use std::io;
 
