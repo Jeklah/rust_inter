@@ -3,4 +3,5 @@ fn main() {
     let num: &i32 = &vec[0];
     vec.push(4);
     println!("Third element is {}", *num);
+    vec.push(5);
 }
